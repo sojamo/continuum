@@ -8,8 +8,9 @@ _gui screenshot_
 ![example 2](resources/images/screen-1.jpg)
 _visual landcape_
 
-![example 2](resources/images/screen-2.jpg)
+![example 3](resources/images/screen-2.jpg)
 _visual modernist_
 
-![example 2](resources/images/screen-3.jpg)
-_visuals_
+![example 4](resources/images/screen-3.jpg)
+
+![example 5](resources/images/screen-4.jpg)
